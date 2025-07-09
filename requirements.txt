@@ -1,0 +1,12 @@
+agno
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+sqlalchemy
+fastapi
+python-multipart
