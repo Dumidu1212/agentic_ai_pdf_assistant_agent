@@ -1,4 +1,4 @@
-# 📄 Agentic AI PDF Assistant
+# 🧠 Agentic AI PDF Assistant
 
 > Smart assistant that understands and answers questions from PDF documents using **Groq LLM**, **OpenAI embeddings**, and **vector search via PostgreSQL** — powered by [Agno](https://pypi.org/project/agno/).
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Architecture
+## 🏗️ Architecture
 
 ```mermaid
 flowchart LR
