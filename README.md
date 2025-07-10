@@ -4,6 +4,16 @@
 
 ---
 
+## 📚 Contents
+
+- [✨ Features](#-features)
+- [🏗️ Architecture](#️-architecture)
+- [⚡ Quick Start](#-quick-start)
+- [🐳 Start Vector Database](#-start-vector-database-pgvector--postgresql)
+- [▶️ Run the Assistant](#️-run-the-assistant)
+
+---
+
 ## ✨ Features
 
 | Capability            | Details                                                                                              |
