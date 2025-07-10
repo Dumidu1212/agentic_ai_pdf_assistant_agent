@@ -41,7 +41,7 @@ flowchart LR
 
 ```
 # 1) Clone the repo
-git clone https://github.com/your-username/agentic_ai_pdf_assistant_agent.git
+git clone https://github.com/Dumidu1212/agentic_ai_pdf_assistant_agent.git
 cd agentic_ai_pdf_assistant_agent
 
 # 2) Create and activate a virtual environment
